@@ -2,41 +2,38 @@
 title: "Getting Started"
 ---
 
-Getting Started with DRIP
 THE OFFICIAL TOKEN OF THE DRIP NETWORK IS DRIP (BEP-20) ON THE BINANCE SMART BLOCKCHAIN (BSC) THAT CAPTURES VALUE BY BEING SCARCE, DEFLATIONARY, CENSORSHIP RESISTANT, AND BY BEING BUILT ON A ROBUST, TRULY DECENTRALIZED BLOCKCHAIN.
 
-Setup
-Download the following apps
-1.	Crypto.com 
+## Setup
+Download the following apps:
+
+1. Crypto.com 
+2. MetaMask
+3. DUO
  
 
-2.	MetaMask
- 
+Create a Crypto.com Account:
 
-3.	DUO
- 
+1. Go through the steps as seen on the on the screen
+        a. You’ll need your photo ID at some point
+        b. Here’s a video to help
+                i. Another helpful link giving a full overview of the app
+        c. It may take a bit to validate your account, could be 5 min or over 1 day in some cases
+        d. Go to Settings and Enable Face ID/Touch ID
 
-Create a Crypto.com Account
-1.	Go through the steps as seen on the on the screen
-a.	You’ll need your photo ID at some point
-b.	Here’s a video to help
-i.	Another helpful link giving a full overview of the app
-c.	It may take a bit to validate your account, could be 5 min or over 1 day in some cases
-d.	Go to Settings and Enable Face ID/Touch ID
-
-2.	Setup 2-Factor Authentication
-a.	Go to Settings in the top left of the crypto.com app
-b.	2-Factor Authentication
-c.	Enable 2FA
-d.	Copy code 
-e.	Open DUO
-i.	Click on Add + to add an account
-ii.	Scroll down to “Add other account”
-iii.	Paste your code
-f.	Go back to crypto.com app and click Proceed to Verify
-g.	This ^ will generate a new 6-digit passcode in the DUO app
-h.	Switch to DUO, and copy the 6-digit passcode
-i.	Switch back to crypto.com, paste it, and click Enable 2FA
+2. Setup 2-Factor Authentication
+        a. Go to Settings in the top left of the crypto.com app
+        b. 2-Factor Authentication
+        c. Enable 2FA
+        d. Copy code 
+        e. Open DUO
+                i. Click on Add + to add an account
+                ii. Scroll down to “Add other account”
+                iii. Paste your code
+        f. Go back to crypto.com app and click Proceed to Verify
+        g. This ^ will generate a new 6-digit passcode in the DUO app
+        h. Switch to DUO, and copy the 6-digit passcode
+        i. Switch back to crypto.com, paste it, and click Enable 2FA
 
 
 Create a MetaMask Wallet
