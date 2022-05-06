@@ -1,17 +1,22 @@
 project:
   type: website
-  output-dir: _site
+  output-dir: docs
 
 website:
   title: "Drip Knowledge Center"
   navbar:
     background: primary
     left:
-      - href: index.qmd
-        text: Home
-      - index.qmd
+      - text: Home
+        href: index.qmd
       - text: Getting Started
-        href: docs/getting-started/index.qmd
+        href: site/getting-started/index.qmd
+      - text: Strategy
+        href: site/strategy/index.qmd
+      - text: Tokenomics
+        href: site/tokenomics/index.qmd
+      - text: Tools & Resources
+        href: site/tools-resources/index.qmd
 
 format:
   html:

@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Home",
@@ -28,10 +21,38 @@
     "text": "Community Contributions\nThis site is managed using Github and is fully open-source. If you want to contribute, there will be instructions in the Contributions tab on the left eventually. If you are familiar with Github, you know the drill. Fork the repo, make changes, submit a PR, and we can review it.\nI have a vision that one day this site will be a resource developed by the DRIP Network community. I am not the most knowledgeable person and I couldn’t come close to answering all of the important questions people consistently have, but with the support of everyone we can build a knowledge center of information people can leverage without the hassle of sorting through medium articles, Telegram notes from Rose, or saved tabs in a Safari browser. I would not be here today without the support from our amazing community so if you are someone who would like to contribute, please do so!"
   },
   {
-    "objectID": "docs/getting-started/index.html",
-    "href": "docs/getting-started/index.html",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "site/getting-started/index.html",
+    "href": "site/getting-started/index.html",
     "title": "Getting Started",
     "section": "",
     "text": "Setup Download the following apps 1. Crypto.com\n\nMetaMask\nDUO\n\nCreate a Crypto.com Account 1. Go through the steps as seen on the on the screen a. You’ll need your photo ID at some point b. Here’s a video to help i. Another helpful link giving a full overview of the app c. It may take a bit to validate your account, could be 5 min or over 1 day in some cases d. Go to Settings and Enable Face ID/Touch ID\n\nSetup 2-Factor Authentication\n\n\nGo to Settings in the top left of the crypto.com app\n2-Factor Authentication\nEnable 2FA\nCopy code\nOpen DUO\nClick on Add + to add an account\n\n\nScroll down to “Add other account”\nPaste your code\n\n\nGo back to crypto.com app and click Proceed to Verify\nThis ^ will generate a new 6-digit passcode in the DUO app\nSwitch to DUO, and copy the 6-digit passcode\nSwitch back to crypto.com, paste it, and click Enable 2FA\n\nCreate a MetaMask Wallet 1. Open MetaMask and click Get Started 2. Click on “Create a Wallet” and on the next window click on “I agree” if you would like to help improve MetaMask or click on “No Thanks” to proceed. 3. Create a strong password for your wallet. 4. SUPER IMPORTANT: Securely store the seed phrase for your wallet a. Click on “Click here to reveal secret words” to show the seed phrase. b. MetaMask requires that you store your seed phrase in a safe place. It is the only way to recover your funds should your device crash or your browser reset. We recommend you write it down. The most common method is to write your 12-word phrase on a piece of paper and store it safely in a place where only you have access. Note: if you lose your seed phrase, MetaMask can’t help you recover your wallet and your funds will be lost forever. c. Never share your seed phrase or your private key to anyone or any site, unless you want them to have full control over your funds.\n\nClick Next\nSeed phrase confirmation Confirm your secret backup phrase by clicking on each word in the order in which the words were presented on the previous screen. Click on “Confirm” to proceed.\n\nYou should see “Congratulations!” now.\nAdd Binance Smart Chain to MetaMask Wallet 1. Open MetaMask 2. Open the side bar menu (top left) 3. Click Settings 4. Click Networks 5. Add Network and enter the info below a. Network Name: Smart Chain b. New RPC URL: https://bsc-dataseed.binance.org/ c. ChainID: 56 d. Symbol: BNB e. Block Explorer URL: https://bscscan.com\nConnect Crypto.com to MetaMask! 1. Open crypto.com 2. Go to Track and search for “BNB” (Binance Coin) 3. Click Buy BNB 4. You’ll need to Add a Credit or Debit Card a. Go through the steps required to do this. You may need to have your online banking app ready as it may send a small transaction to your card with a special code you need to extract from it. 5. Enter the amount of BNB you wish to acquire a. For example, right now I can purchase 1.5 BNB for $566.39 6. After buying BNB, go to Accounts (bottom menu) 7. Click on the Crypto Wallet dropdown and select Binance Coin 8. Click Transfer, then Withdraw 9. Click External Wallet 10. Click the ‘+’ at the top right 11. Click Wallet Address 12. IMPORTANT: Switch network to BSC 13. You’ll need to add your MetaMask Wallet address in the BNB Wallet Address section a. Go back to MetaMask b. Copy address (right above the send button) 14. Go back to the crypto.com app and paste it in the BNB Wallet Address section 15. Add a wallet name 16. Click Continue. This could take time to add a new address. 17. Once wallet is added, click Withdraw BNB 18. Enter amount of BNB to transfer to MetaMask (This is the amount you want to use to purchase DRIP). 19. Click Withdraw 20. It’ll ask you to get the 6-digit code from your DUO app. Go to DUO and copy it. Come back to crypto.com and paste it. 21. Done.\nBUY DRIP! 1. Open MetaMask 2. Open the sidebar menu 3. Click on Browser 4. Search “drip.community” 5. Open the menu on the top right and make sure you’re on the Swap tab 6. Go to the Buy DRIP section 7. Enter in almost all of your BNB. You’ll need to save some for gas fees (~$10) 8. Click BUY 9. Switch tab to the Faucet 10. Go to the “Get a Buddy” Section 11. Add 0x77822313a6a898A04d99ea43656507fc5D8c20dd 12. Go to the Deposit section 13. Click Max 14. Click DEPOSIT 15. A new window will pop up with MetaMask asking you to confirm gas fees. Click Confirm. If it says insufficient funds, you’ll need to add more BNB to your MetaMask Wallet. This doesn’t take much as each transaction is around or under $1 16. Done!!\nStrategy For now, simply click the hydrate button each day around the same time. Do this within the metamask app, under the browser tab just like we did to buy DRIP."
+  },
+  {
+    "objectID": "site/strategy/index.html",
+    "href": "site/strategy/index.html",
+    "title": "Strategy",
+    "section": "",
+    "text": "Each investor comes in with a different sum of money and price point. This section will help them understand how to leverage the tool available to them to develop a strategy that best suites them."
+  },
+  {
+    "objectID": "site/tokenomics/index.html",
+    "href": "site/tokenomics/index.html",
+    "title": "Tokenomics",
+    "section": "",
+    "text": "This is a complicated ecosystem. Using flowcharts, visualizations, and detailed explanations we will demystify how it all works so investors properly understand what they are investing in."
+  },
+  {
+    "objectID": "site/tools-resources/index.html",
+    "href": "site/tools-resources/index.html",
+    "title": "Tools & Resources",
+    "section": "",
+    "text": "A collection of all the fabulous tools and resources created by the community and developers."
   }
 ]

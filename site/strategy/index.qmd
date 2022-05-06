@@ -1,0 +1,5 @@
+---
+title: "Strategy"
+---
+
+Each investor comes in with a different sum of money and price point. This section will help them understand how to leverage the tool available to them to develop a strategy that best suites them.
