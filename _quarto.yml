@@ -17,6 +17,16 @@ website:
         href: site/tokenomics/index.qmd
       - text: Tools & Resources
         href: site/tools-resources/index.qmd
+  
+  sidebar:
+    style: "docked"
+    search: true
+    contents:
+      - section: index.qmd
+      - section: site/getting-started/index.qmd
+      - section: site/strategy/index.qmd
+      - section: site/tokenomics/index.qmd
+      - section: site/tools-resources/index.qmd
 
 format:
   html:
