@@ -1,0 +1,23 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Drip Knowledge Center"
+  navbar:
+    background: primary
+    left:
+      - href: index.qmd
+        text: Home
+      - index.qmd
+      - text: Getting Started
+        href: docs/getting-started/index.qmd
+
+format:
+  html:
+    theme: lux
+    css: styles.css
+    toc: true
+
+
+

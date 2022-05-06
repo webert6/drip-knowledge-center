@@ -1,0 +1,28 @@
+---
+title: "Home"
+---
+
+The purpose of this site is to be a central hub to document best practices and frequently asked questions on how to properly understand and invest in the DRIP Network. There is a lot of information already out there, but between the various Telegram and Discord groups, Medium articles, and YouTube channels it's difficult to keep commonly shared knowledge organized and well structured. By doing this, we will enable a better on-boarding experience for new users and provide investors with a resource to support their needs.
+
+
+<p align="center">
+    ![](drip.png)
+</p>
+
+## What is DRIP?
+If you're not exactly familiar with DRIP, allow me to explain. The DRIP Network was developed by Forex Shark and it's native coin is the DRIP token which can be purchased on the Binance Smart Chain. Purchasing the DRIP token is not as straightforward as buying Bitcoin for example so please see the Getting Started section for a step by step walkthrough. According to the whitepaper on the [website](www.drip.community):
+
+> “DRIP is a low-risk, high reward contract that operates similarly to a high yield certificate of deposit by paying out 1% daily return on investment up to 365%. Players can compound and extend their earnings through deposits, hydrating (compounding) rewards as well as through team based referrals.”
+
+At a high-level, as an investor, you permanently deposit DRIP and you earn 1% of your deposit over a 24hr period up to a max payout of 365%. When you earn interest, you have the decision to either compound (*hydrate*) your earnings on to your principle or claim. Each transaction you make (deposit, hydrate, claim, sell) are all taxed which is what enables this whole ecosystem to be sustainable. The interest you earn is paid to you through these taxes and transactions from the community. The Tokenomics tab will cover sustainability and how the ecosystem works together in more detail.
+
+<div class="alert alert-info"
+  <strong> Important Note: </strong> The DRIP token is volatile so the value of your deposit and 1% earned interest can fluctuate. 
+</div>
+
+That being said, I truly believe this is the opportunity of a lifetime. In times of economic turmoil, DRIP provides an avenue to sustainable wealth and passive income. As long as DRIP is operational, no matter how much money you bring to the table or what price you enter in at, it will provide passive income assuming you follow and stick to a good strategy. See the Strategy tab to see examples of how you can develop your own strategy.
+
+## Community Contributions
+This site is managed using Github and is fully open-source. If you want to contribute, there will be instructions in the Contributions tab on the left eventually. If you are familiar with Github, you know the drill. Fork the repo, make changes, submit a PR, and we can review it.
+
+I have a vision that one day this site will be a resource developed by the DRIP Network community. I am not the most knowledgeable person and I couldn't come close to answering all of the important questions people consistently have, but with the support of everyone we can build a knowledge center of information people can leverage without the hassle of sorting through medium articles, Telegram notes from Rose, or saved tabs in a Safari browser. I would not be here today without the support from our amazing community so if you are someone who would like to contribute, please do so!
