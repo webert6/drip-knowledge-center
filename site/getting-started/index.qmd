@@ -21,7 +21,7 @@ This is what I call my "App Stack". These three apps will primarily control the 
     -   It may take a bit to validate your account, could be 5 min or over 1 day in some cases
     -   Go to **Settings** and Enable Face ID/Touch ID
 2.  Setup 2-Factor Authentication
-    -   Go to **Settings** in the top left of the crypto.com app
+    -   Go to Settings in the top left of the Crypto.com app
     -   2-Factor Authentication
     -   Enable 2FA
     -   Copy [*code*]{.underline}
@@ -29,7 +29,7 @@ This is what I call my "App Stack". These three apps will primarily control the 
         -   Click on Add + to add an account
         -   Scroll down to "Add other account"
         -   Paste your [*code*]{.underline}
-    -   Go back to crypto.com app and click Proceed to Verify
+    -   Go back to Crypto.com app and click Proceed to Verify
     -   This \^ will generate a new 6-digit passcode in the DUO app
     -   Switch to DUO, and copy the 6-digit passcode
     -   Switch back to crypto.com, paste it, and click Enable 2FA
@@ -37,23 +37,20 @@ This is what I call my "App Stack". These three apps will primarily control the 
 ### Create a MetaMask Wallet
 
 1.  Open MetaMask and click Get Started
-
 2.  Click on "Create a Wallet" and on the next window click on "I agree" if you would like to help improve MetaMask or click on "No Thanks" to proceed.
-
 3.  Create a strong password for your wallet.
-
 4.  SUPER IMPORTANT: Securely store the seed phrase for your wallet
-
     -   Click on "Click here to reveal secret words" to show the seed phrase.
     -   MetaMask requires that you store your seed phrase in a safe place. It is the only way to recover your funds should your device crash or your browser reset. I recommend you document it in some way and store it in a secure place.
 
-```{=html}
-<div class="alert alert-info"
 
-<strong> Important Note: </strong> If you lose your seed phrase, MetaMask can’t help you recover your wallet and your funds will be lost forever. Never share your seed phrase or your private key to anyone or any site, unless you want them to have full control over your funds.
-
+<div class="alert alert-info">
+  <h5>Important Note</h5> If you lose your seed phrase, MetaMask can’t help you recover your wallet and your funds will be lost forever. Never share your seed phrase or your private key to anyone or any site, unless you want them to have full control over your funds.
 </div>
-```
+
+
+
+
 ![](img/secret_backup_phrase.png)
 
 5.  Click Next
@@ -83,29 +80,29 @@ You should see "Congratulations!" now.
 
 ### Connect Crypto.com to MetaMask
 
-1.  Open crypto.com
-2.  Go to Track and search for "BNB" (Binance Coin)
-3.  Click Buy BNB
+1.  Open Crypto.com
+2.  Go to _Track_ and search for "BNB" (Binance Coin)
+3.  Click _Buy BNB_
 4.  You'll need to Add a Credit or Debit Card
     -   Go through the steps required to do this. You may need to have your online banking app ready as it may send a small transaction to your card with a special code you need to extract from it.
 5.  Enter the amount of BNB you wish to acquire
     -   For example, right now I can purchase 1.5 BNB for \$566.39
-6.  After buying BNB, go to Accounts (bottom menu)
+6.  After buying BNB, go to _Accounts_ (bottom menu)
 7.  Click on the Crypto Wallet dropdown and select Binance Coin
-8.  Click Transfer, then Withdraw
-9.  Click External Wallet
+8.  Click _Transfer_, then _Withdraw_
+9.  Click _External Wallet_
 10. Click the '+' at the top right
-11. Click Wallet Address
-12. IMPORTANT: Switch network to BSC
+11. Click _Wallet Address_
+12. [IMPORTANT:]{.underline} Switch network to BSC
 13. You'll need to add your MetaMask Wallet address in the BNB Wallet Address section
     -   Go back to MetaMask
     -   Copy address (right above the send button)
 14. Go back to the crypto.com app and paste it in the BNB Wallet Address section
 15. Add a wallet name
-16. Click Continue. This could take time to add a new address.
-17. Once wallet is added, click Withdraw BNB
+16. Click _Continue._ This could take time to add a new address.
+17. Once wallet is added, click _Withdraw BNB_
 18. Enter amount of BNB to transfer to MetaMask (This is the amount you want to use to purchase DRIP).
-19. Click Withdraw
+19. Click _Withdraw_
 20. It'll ask you to get the 6-digit code from your DUO app. Go to DUO and copy it. Come back to crypto.com and paste it.
 21. Done.
 
@@ -113,19 +110,19 @@ You should see "Congratulations!" now.
 
 1.  Open MetaMask
 2.  Open the sidebar menu
-3.  Click on Browser
+3.  Click on _Browser_
 4.  Search "drip.community"
-5.  Open the menu on the top right and make sure you're on the Swap tab
+5.  Open the menu on the top right and make sure you're on the _Swap_ tab
 6.  Go to the Buy DRIP section
 7.  Enter in almost all of your BNB. You'll need to save some for gas fees (\~\$10)
-8.  Click BUY
-9.  Switch tab to the Faucet
+8.  Click _BUY_
+9.  Switch tab to the _Faucet_
 10. Go to the "Get a Buddy" Section
 11. Add 0x77822313a6a898A04d99ea43656507fc5D8c20dd
 12. Go to the Deposit section
-13. Click Max
-14. Click DEPOSIT
+13. Click _Max_
+14. Click _DEPOSIT_
 15. A new window will pop up with MetaMask asking you to confirm gas fees. Click Confirm. If it says insufficient funds, you'll need to add more BNB to your MetaMask Wallet. This doesn't take much as each transaction is around or under \$1
 16. Done!!
 
-Strategy For now, simply click the hydrate button each day around the same time. Do this within the metamask app, under the browser tab just like we did to buy DRIP.
+Everyone's strategy is different. People come with various amounts of money they at different price points. See the Strategy Tab to understand what strategy works best for you.
