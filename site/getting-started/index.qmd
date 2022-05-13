@@ -2,7 +2,7 @@
 title: "Getting Started"
 ---
 
-The official token of the DRIP Network is DRIP (BEP-20) on the Binance Smart Blockchain (BSC). It captures value by being scarce, deflationary, censorship resistant, and by being built on a robust, truly decentralized blockchain..
+The official token of the DRIP Network is DRIP (BEP-20) on the Binance Smart Blockchain (BSC). This is a complicated process for people first starting out, but I'm here to help! Do your best and if you have questions please reach out. You can do so by submitting an Issue [here](https://github.com/webert6/drip-knowledge-center/issues) or joining my Telegram chat here (coming soon).
 
 # Setup
 
