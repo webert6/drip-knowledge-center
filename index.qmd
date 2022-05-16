@@ -10,7 +10,7 @@ The purpose of this site is to be a central hub to document best practices and f
 </p>
 
 ## What is DRIP?
-If you're not exactly familiar with DRIP, allow me to explain. The DRIP Network was developed by Forex Shark and it's native coin is the DRIP token which can be purchased on the Binance Smart Chain. Purchasing the DRIP token is not as straightforward as buying Bitcoin for example so please see the Getting Started section for a step by step walkthrough. According to the whitepaper on the [website](www.drip.community):
+If you're not exactly familiar with DRIP, allow me to explain. The DRIP Network was developed by Forex Shark and it's native coin is the DRIP token which can be purchased on the Binance Smart Chain. Purchasing the DRIP token is not as straightforward as buying Bitcoin, _yet_, so please see the Getting Started section for a step by step walkthrough. According to the whitepaper on the [website](www.drip.community):
 
 > “DRIP is a low-risk, high reward contract that operates similarly to a high yield certificate of deposit by paying out 1% daily return on investment up to 365%. Players can compound and extend their earnings through deposits, hydrating (compounding) rewards as well as through team based referrals.”
 
@@ -20,7 +20,11 @@ At a high-level, as an investor, you permanently deposit DRIP and you earn 1% of
   <strong> Important Note: </strong> The DRIP token is volatile so the value of your deposit and 1% earned interest can fluctuate. 
 </div>
 
-That being said, I truly believe this is the opportunity of a lifetime. In times of economic turmoil, DRIP provides an avenue to sustainable wealth and passive income. As long as DRIP is operational, no matter how much money you bring to the table or what price you enter in at, it will provide passive income assuming you follow and stick to a good strategy. See the Strategy tab to see examples of how you can develop your own strategy.
+That being said, I truly believe this is the opportunity of a lifetime. In times of economic turmoil, DRIP provides an avenue to sustainable wealth and passive income. As long as DRIP is operational, no matter how much money you bring to the table or what price you enter in at, it will provide passive income assuming you follow and stick to a good strategy. See the Strategy tab to see examples of how you can develop your own strategy. 
+[test reference](site/strategy/index.qmd)
+
+## Testimonies
+Coming soon...
 
 ## Community Contributions
 This site is managed using Github and is fully open-source. If you want to contribute, there will be instructions in the Contributions tab on the left eventually. If you are familiar with Github, you know the drill. Fork the repo, make changes, submit a PR, and we can review it.
